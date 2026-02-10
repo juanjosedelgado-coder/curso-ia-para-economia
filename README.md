@@ -58,7 +58,6 @@ En equipos de 3 personas, los estudiantes desarrollarán un proyecto aplicado co
 📦 curso-ia-economia
  ┣ 📂 clases                            # Presentaciones y Jupyter Notebooks vistos en clase
  ┣ 📂 datasets                          # Conjuntos de datos utilizados en clase
- ┣ 📄 0_instalacion_librerias.ipynb     # Notebook sobre cómo instalar librerías
  ┣ 📄 2025_II_Programa_IA_economia.pdf  # Programa del curso
  ┣ 📄 LICENSE.md                        # Licencia MIT
  ┣ 📄 README.md                         # Este archivo
